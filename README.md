@@ -1,2 +1,2 @@
 # Temperature_Converter
-This page is for converting the temperature in different parameters. This project is my second task of Internship from BharatInterns.
+This page is designed for converting the temperatures in between different units.It is my second task as an  Intern at BharatInterns.
